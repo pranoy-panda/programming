@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/target.dir/src/main.c.o CMakeFiles/target.dir/src/data_structures.c.o CMakeFiles/target.dir/src/algorithms.c.o  -o target 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g   CMakeFiles/target.dir/src/LogMessage.cpp.o CMakeFiles/target.dir/src/main.cpp.o  -o target 

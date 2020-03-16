@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/pranoy/New Volume1/github_repo/computer_science_endeavour/using_cmake/src/LogMessage.cpp
+iostream
+-
+
+/media/pranoy/New Volume1/github_repo/computer_science_endeavour/using_cmake/src/Logger.h
+
+/media/pranoy/New Volume1/github_repo/computer_science_endeavour/using_cmake/src/main.cpp
+iostream
+-
+Logger.h
+/media/pranoy/New Volume1/github_repo/computer_science_endeavour/using_cmake/src/Logger.h
+

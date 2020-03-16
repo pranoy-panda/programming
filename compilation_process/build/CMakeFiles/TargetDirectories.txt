@@ -1,0 +1,3 @@
+/media/pranoy/New Volume/github_repo/computer_science_endeavour/compilation_process/build/CMakeFiles/edit_cache.dir
+/media/pranoy/New Volume/github_repo/computer_science_endeavour/compilation_process/build/CMakeFiles/rebuild_cache.dir
+/media/pranoy/New Volume/github_repo/computer_science_endeavour/compilation_process/build/CMakeFiles/target.dir
